@@ -144,7 +144,7 @@ scikit-learn
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ShahanaJamal2778/DevelopersHub_Data_Analysis_Internship.git
 
 
 Install required libraries:
